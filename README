@@ -1,8 +1,10 @@
 This python script uses BeautifulSoup to scrape articles from:
 EFF Blog
 Private Internet Access Blog
-HackRead Site
+Privacy International
 Signal Blog
+EPIC Blog
+HackRead Site
 Tor Project Blog
 (more to come)
 
